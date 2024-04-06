@@ -46,4 +46,4 @@ In `umbral-pre-wasm` dir:
 - `cd pkg`.
 - `npm publish --access=public`.
 
-See see https://rustwasm.github.io/docs/wasm-pack/tutorials/npm-browser-packages/packaging-and-publishing.html for more info on publishing.
+See https://rustwasm.github.io/docs/wasm-pack/tutorials/npm-browser-packages/packaging-and-publishing.html for more info on publishing.
